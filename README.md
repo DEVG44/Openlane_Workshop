@@ -1,4 +1,4 @@
-<img width="1283" height="772" alt="12" src="https://github.com/user-attachments/assets/632f9df3-1866-4774-be43-6ed03106808a" /># Openlane_Workshop
+# Openlane_Workshop
 Working with open-source tools for the RTL to GDSII flow.
 
 #DAY 1
